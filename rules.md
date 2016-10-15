@@ -18,4 +18,5 @@
 3. Rule priority goes as follows:
    metarule --> immutable rule --> mutable rule
 4. Transmuting an immutable rule to a mutable one requires a supermajority of 60% and will be held over a period of one and a half weeks.
-5. The adoption of rule-changes must never become completely impermissible.
+5. Transmuting an metarule to a mutable one requires a supermajority of 70% and will be held over a period of two weeks.
+6. The adoption of rule-changes must never become completely impermissible.
