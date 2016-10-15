@@ -6,12 +6,27 @@
 4. Rule-changes that affect rules needed to allow or apply rule-changes are as permissible as other rule-changes. Even rule-changes that amend or repeal their own authority are permissible. No rule-change or type of move is impermissible solely on account of the self-reference or self-application of a rule.
 5. Rules starting with `~` are guidelines and noticies. They may freely use vague language and are not enforceable. 
 6. Voting/rule change details
- - A proposed rule change is proposed as a Pull Request to rules.md.
- - An affirmative vote is cast using the "thumbs up" emoji reaction.
- - A negative vote is cast using the "thumbs down" emoji reaction.
+ - A proposed rule change is proposed as a Pull Request to rules.md
+ - An affirmative vote is cast using the "thumbs up" emoji reaction
+ - A negative vote is cast using the "thumbs down" emoji reaction
  - A rule-change is accepted (*merged*) if there are more thumbs up than thumbs down after one week of rule proposal.
  - A rule-change that does not meet the above requirements is closed to prevent clutter
- - the rule may be proposed again
+ - A previously denied rule change may be proposed again
+7. Bureaucrats
+ - Bureaucrats are trusted players who perform maintenance tasks. A maintenance task is defined as:
+   - Merging Pull Requests that meet the requirements for rule creation
+ - ~ Bureaucrats are a position created to keep the game moving even when one or more of the owners is away.
+8. ~ Rule-proposal Formatting
+ - Add `[WIP]` to the title of your rule proposal if it is not ready for voting, for example if you want others to review it first.
+ - When it is ready to be voted on, 
+   - Embed a diff in your rule proposal in the following format. On PRs, it will render in color: 
+        ```
+        + this is an added line
+        - this is a removed line
+        this is a normal line
+        ```
+   - Add an end date for voting, seven days after the day when voting started.
+
 
 ## Mutable rules
 
