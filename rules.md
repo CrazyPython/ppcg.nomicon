@@ -19,12 +19,7 @@
 8. ~ Rule-proposal Formatting
  - Add `[WIP]` to the title of your rule proposal if it is not ready for voting, for example if you want others to review it first.
  - When it is ready to be voted on, 
-   - Embed a diff in your rule proposal in the following format. On PRs, it will render in color: 
-        ```
-        + this is an added line
-        - this is a removed line
-        this is a normal line
-        ```
+   - Embed a diff in your rule proposal in the following format. [See this example rule-proposal](https://github.com/CrazyPython/ppcg.nomicon/pull/3)
    - Add an end date for voting, seven days after the day when voting started.
 
 
