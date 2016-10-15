@@ -5,6 +5,13 @@
 3. The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
 4. Rule-changes that affect rules needed to allow or apply rule-changes are as permissible as other rule-changes. Even rule-changes that amend or repeal their own authority are permissible. No rule-change or type of move is impermissible solely on account of the self-reference or self-application of a rule.
 5. Rules starting with `~` are guidelines and noticies. They may freely use vague language and are not enforceable. 
+6. Voting/rule change details
+ - A proposed rule change is proposed as a Pull Request to rules.md.
+ - An affirmative vote is cast using the "thumbs up" emoji reaction.
+ - A negative vote is cast using the "thumbs down" emoji reaction.
+ - A rule-change is accepted (*merged*) if there are more thumbs up than thumbs down after one week of rule proposal.
+ - A rule-change that does not meet the above requirements is closed to prevent clutter
+ - the rule may be proposed again
 
 ## Mutable rules
 
