@@ -1,7 +1,7 @@
 # Rules
-# Immutable rules
+## Immutable rules
 
-# Mutable rules
+## Mutable rules
 
 ## Metarules
 1. Rules with lower numbering will prevail.
